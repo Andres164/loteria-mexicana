@@ -17,6 +17,24 @@ FR008_setDefaultDeck
 FR010_pointsSystemHelp
 FR011_seeHighestScore
 
-* game *
-
 * game options *
+FR012_selectDeck
+FR013_selectCard
+FR014_selectDifficulty
+FR015_setCustomGameSpeed
+FR016_setCustomNumberOfCardsToShowAtATime
+
+* game *
+FR017_viewPortWithPlayerCard
+FR018_headerToShowPassingCards
+FR019_tagCardAsSwiped
+FR020_unTagCardAsSwiped
+FR021_tagCardWithQuestionMark
+FR022_won
+FR023_chorro
+FR024_centro
+FR025_cuatroEsquinas
+FR026_askIfCardHasBeenSwiped
+FR027_
+FR0_pauseMenu
+
