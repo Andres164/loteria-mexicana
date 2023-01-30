@@ -1,0 +1,22 @@
+* main menu *
+
+* cards *
+FR001_generateCard
+FR002_saveCard
+FR003_seeSavedCards
+FR009_setDefaultCard
+
+* deck of cards *
+FR004_seeDeck
+FR005_modifyDeck
+FR006_createBlankDeck
+FR007_makeCopyOfDeck
+FR008_setDefaultDeck
+
+* points system *
+FR010_pointsSystemHelp
+FR011_seeHighestScore
+
+* game *
+
+* game options *
